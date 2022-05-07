@@ -1,0 +1,240 @@
+
+.topnav {
+  overflow: hidden;
+  }
+.topnav a {
+ float: left;
+  color: #f2f2f2;
+  padding: 14px 13px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.topnav a:hover {
+  color: #00ffff;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+body{
+  margin: 0;
+}
+.body{
+  background-image: linear-gradient(rgba(0,0,0,0.56),rgba(0,0,0,0.56)),url('back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ }
+.head{
+  color: white;
+  font-family: Supermercado One;
+  font-size: 45px;
+  padding-top: 100px;
+  padding-left: 12px;
+}
+.para{
+  color: white;
+  font-size: 35px;
+  font-family: Sans-Serif;
+  margin-left: 20px;
+}
+.para span{
+  font-size: 40px;
+  font-family: Kaushan Script;
+  font-style: italic;
+  color: #00ffff;
+  
+}
+.image{
+  width: 220px;
+  height: 220px;
+  margin-top:80px;
+}
+.image:hover{
+  height: 250px;
+  width: 250px;
+  margin-top: 65px;
+}
+.para1{
+  font-size: 22px;
+ font-style: italic;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+ }
+  .link .fab{
+    color: white;
+    font-size: 30px;
+    padding: 8px;
+    margin-top: 10px;
+    }
+  .fab:hover{
+    color: #4267B2;
+    font-size: 36px;
+    margin-top: 5px;
+  }
+  .btn-tag{
+    color:#fff;
+    background: #11468F;
+    margin: 0;
+    border: none;
+    border-radius: 6px;
+    width: 130px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 4px;
+    transition: 0.5s ease-in-out;
+  }
+  .btn-tag:hover{
+    background: #1572A1;
+    color: #000;
+    margin-top: 5px;
+   }
+  .btn-tag a{
+    text-decoration: none;
+    color: #fff;
+  }
+footer{
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
+footer span{
+  color: #00ffff;
+  font-size: 16px;
+}
+
+.body-1{
+  background-color: #222831;
+  margin: 0;
+  padding: 0;
+}
+.educate-head{
+  text-align: center;
+  font-size: 50px;
+  color: #C0D8C0;
+  font-family: 'Fjalla One', sans-serif;
+ 
+}
+.education-body{
+  background-color: black;
+ }
+ .edu-head{
+   color: white;
+   font-size: 40px;
+   margin-top: 20px;
+   margin-left: 8px;
+ }
+
+ 
+ .p2{
+   color: white;
+   font-size: 18px;
+ }
+table{
+  border: none;
+}
+table,td{
+  color: white;
+  border-collapse: collapse;
+  }
+ td{
+   font-size: 22px;
+   color: white;
+   font-family: 'Supermercado One', cursive;
+   
+   }
+  td img{
+     width: 120px;
+     height: 120px;
+     padding: 20px;
+   }
+   td a{
+     color: powderblue;
+     text-decoration: none;
+   }
+   td a:hover{
+     font-size: 27px;
+     margin-top: 5px;
+     color: #00ffff;
+   }
+   .foot-3{
+     padding-top: 60px;
+   }
+   .about-body{
+     background-color: black;
+     width: 100%;
+     margin: 0;
+     padding: 0;
+     
+   }
+   .head5{
+     color: white;
+     font-size: 21px;
+     color: #F7ECDE;
+   }
+   .about-para{
+     color: white;
+     font-size: 20px;
+     font-style: italic;
+     line-height: 39px;
+     margin-left: 5px;
+     font-family: 'Ubuntu', sans-serif;
+   }
+   .about-para1{
+     margin-top: 20px;
+     font-size: 20px;
+     margin-left: 16px;
+   }
+   .about-para1 a{
+     color: #00ffff;
+     font-family: 'Quintessential', cursive;
+   }
+   .foot{
+     padding-top: 300px;
+   }
+    .carousel-inner{
+   margin-top: 100px;
+   border-radius: 10px;
+   width: 100%;
+   color: black;
+    }
+   .place-container{
+     width:100%;
+     height: 100vh;
+     background-color: black;
+     margin: 0;
+     padding: 0;
+     position: absolute;
+   }
+   .place-para {
+     color: white;
+     font-size: 24px;
+     margin-top: 15px;
+     margin-left: 5px;
+   }
+  .carousel-caption{
+    position: relative;
+    display: flex;
+   }
+   .carousel-caption p{
+     color: white;
+     margin-top: 34px;
+     margin-right: 20px;
+     font-weight: bold;
+     text-align: center;
+     font-size: 30px;
+     font font-family: Sans-Serif;
+     letter-spacing: 1px;
+   }
+   .foot-1{
+
+     margin-bottom: 0;
+   }
+   .place-para p{
+     font-size: 24px;
+   }
